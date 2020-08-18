@@ -15,3 +15,5 @@ run app with python app.py
 App starts and loads gpt-model and tokenizer.
 the it asks you to give an input and continues the text with sampling the top 50 most likely outputs
 give input q to stop or press ctrl-c
+
+## Note loading the gpt-2 model might take a while when the app is started
